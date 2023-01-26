@@ -1,70 +1,290 @@
 {
-    "services": [
+    "house_services": [
         {
-            "category": "Additions & Remodels",
+            "category": "Additions & remodels",
             "services": [
-                "Kitchen Remodeling",
-                "Bathroom Remodeling",
-                "Home Construction",
-                "Garage",
-                "Green Home Improvement Projects"
+                "Kitchen remodel",
+                "Bathroom remodel",
+                "Home addition",
+                "Basement finishing"
             ]
         },
         {
-            "category": "Energy Efficiency",
+            "category": "Energy efficiency",
             "services": [
-                "Home Winterization",
-                "Heating & Furnaces",
-                "AC & Cooling",
-                "Plumbing",
-                "Electrical & Computers"
+                "Insulation installation",
+                "Solar panel installation",
+                "Energy audit",
+                "Geothermal heating and cooling"
             ]
         },
         {
-            "category": "Household Chores",
+            "category": "Household chores",
             "services": [
-                "Clean Services",
-                "Handyman",
-                "Household Chores"
+                "House cleaning",
+                "Lawn care",
+                "Snow removal",
+                "Pool maintenance"
             ]
         },
         {
-            "category": "Exterior",
+            "category": "AC & cooling",
             "services": [
-                "Fences",
-                "Moving & Storage",
-                "Landscape, Yard, & Garden",
-                "Painting & Staining",
-                "Roofing",
-                "Concrete, Brick & Stone",
-                "Siding",
-                "Decks, Porches & Patios",
-                "Windows & Doors"
+                "AC repair",
+                "AC installation",
+                "Duct cleaning",
+                "Cooling system repair"
             ]
         },
         {
-            "category": "Interior",
+            "category": "Fences",
             "services": [
-                "Architects, Builders & Engineers",
-                "Flooring",
-                "Carpentry & Woodworking",
-                "Cabinets",
-                "Countertops",
-                "Drywall & Insulation",
-                "Home Theater",
-                "Walls & Ceilings",
-                "Tiles & Stone"
+                "Fence installation",
+                "Fence repair",
+                "Fence staining",
+                "Fence replacement"
             ]
         },
         {
-            "category": "Other Services",
+            "category": "Architects, builders & engineers",
             "services": [
-                "Foundations",
-                "Swimming Pools, Spas, Hot Tubs, & Saunas",
-                "Decorators & Designers",
-                "Home Inspectors & Appraisers",
-                "Other Services"
+                "Architecture design",
+                "Construction management",
+                "Structural engineering",
+                "Project management"
+            ]
+        },
+        {
+            "category": "Flooring",
+            "services": [
+                "Hardwood floor installation",
+                "Carpet installation",
+                "Tile installation",
+                "Laminate flooring installation"
+            ]
+        },
+        {
+            "category": "Landscape, yard, & garden",
+            "services": [
+                "Landscaping",
+                "Lawn care",
+                "Tree trimming",
+                "Garden design"
+            ]
+        },
+        {
+            "category": "Carpentry & woodworking",
+            "services": [
+                "Custom cabinetry",
+                "Furniture making",
+                "Trim work",
+                "Deck building"
+            ]
+        },
+        {
+            "category": "Garage",
+            "services": [
+                "Garage door installation",
+                "Garage door repair",
+                "Garage floor coating",
+                "Garage storage solutions"
+            ]
+        },
+        {
+            "category": "Painting & staining",
+            "services": [
+                "Interior painting",
+                "Exterior painting",
+                "Staining",
+                "Wallpapering"
+            ]
+        },
+        {
+            "category": "Cabinets",
+            "services": [
+                "Cabinet installation",
+                "Cabinet refacing",
+                "Custom cabinetry",
+                "Cabinet repair"
+            ]
+        },
+        {
+            "category": "Green home improvement projects",
+            "services": [
+                "Solar panel installation",
+                "Energy efficient windows",
+                "Water conservation",
+                "Insulation"
+            ]
+        },
+        {
+            "category": "Plumbing",
+            "services": [
+                "Plumbing repair",
+                "Plumbing installation",
+                "Drain cleaning",
+                "Water heater installation/repair"
+            ]
+        },
+        {
+            "category": "Clean services",
+            "services": [
+                "House cleaning",
+                "Carpet cleaning",
+                "Window cleaning",
+                "Gutter cleaning"
+            ]
+        },
+        {
+            "category": "Handyman",
+            "services": [
+                "Home repairs",
+                "Minor electrical work",
+                "Minor plumbing work",
+                "Hanging shelves and curtains"
+            ]
+        },
+        {
+            "category": "Roofing",
+            "services": [
+                "Roof repair",
+                "Roof replacement",
+                "Gutter installation",
+                "Roof inspection"
+            ]
+        },
+        {
+            "category": "Heating & furnaces",
+            "services": [
+                "Furnace repair",
+                "Furnace replacement",
+                "Boiler repair",
+                "Boiler replacement"
+            ]
+        },
+        {
+            "category": "Siding",
+            "services": [
+                "Siding repair",
+                "Siding replacement",
+                "Vinyl siding",
+                "Aluminum siding"
+            ]
+        },
+        {
+            "category": "Countertops",
+            "services": [
+                "Granite countertops",
+                "Marble countertops",
+                "Laminate countertops",
+                "Quartz countertops"
+            ]
+        },
+        {
+            "category": "Home construction",
+            "services": [
+                "Custom home building",
+                "Home remodel",
+                "Home addition",
+                "Home renovation"
+            ]
+        },
+        {
+            "category": "Swimming pools, spas, hot tubs, & saunas",
+            "services": [
+                "Swimming pool installation",
+                "Swimming pool repair",
+                "Hot tub installation",
+                "Sauna installation"
+            ]
+        },
+        {
+            "category": "Decorators & designers",
+            "services": [
+                "Interior design",
+                "Home staging",
+                "Furniture selection",
+                "Color consultation"
+            ]
+        },
+        {
+            "category": "Home inspectors & appraisers",
+            "services": [
+                "Home inspection",
+                "Appraisal",
+                "Radon testing",
+                "Mold testing"
+            ]
+        },
+        {
+            "category": "Tiles & stone",
+            "services": [
+                "Tile installation",
+                "Tile repair",
+                "Marble installation",
+                "Granite installation"
+            ]
+        },
+        {
+            "category": "Home theater",
+            "services": [
+                "Home theater installation",
+                "Home theater design",
+                "Home theater repair",
+                "Home theater upgrade"
+            ]
+        },
+        {
+            "category": "Walls & ceilings",
+            "services": [
+                "Drywall installation",
+                "Drywall repair",
+                "Popcorn ceiling removal",
+                "Textured ceiling repair"
+            ]
+        },
+        {
+            "category": "Decks, porches & patios",
+            "services": [
+                "Deck installation",
+                "Deck repair",
+                "Patio installation",
+                "Porch installation"
+            ]
+        },
+        {
+            "category": "Home winterization",
+            "services": [
+                "Insulation installation",
+                "Weatherstripping",
+                "Caulking",
+                "Draft sealing"
+            ]
+        },
+        {
+            "category": "Windows & doors",
+            "services": [
+                "Window installation",
+                "Window repair",
+                "Door installation",
+                "Door repair"
+            ]
+        },
+        {
+            "category": "Electrical & computers",
+            "services": [
+                "Electrical installation",
+                "Electrical repair",
+                "Computer repair",
+                "Computer networking"
+            ]
+        },
+        {
+            "category": "Other services",
+            "services": [
+                "Other services not listed"
             ]
         }
     ]
 }
+
