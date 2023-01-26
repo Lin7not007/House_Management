@@ -1,0 +1,70 @@
+{
+    "services": [
+        {
+            "category": "Additions & Remodels",
+            "services": [
+                "Kitchen Remodeling",
+                "Bathroom Remodeling",
+                "Home Construction",
+                "Garage",
+                "Green Home Improvement Projects"
+            ]
+        },
+        {
+            "category": "Energy Efficiency",
+            "services": [
+                "Home Winterization",
+                "Heating & Furnaces",
+                "AC & Cooling",
+                "Plumbing",
+                "Electrical & Computers"
+            ]
+        },
+        {
+            "category": "Household Chores",
+            "services": [
+                "Clean Services",
+                "Handyman",
+                "Household Chores"
+            ]
+        },
+        {
+            "category": "Exterior",
+            "services": [
+                "Fences",
+                "Moving & Storage",
+                "Landscape, Yard, & Garden",
+                "Painting & Staining",
+                "Roofing",
+                "Concrete, Brick & Stone",
+                "Siding",
+                "Decks, Porches & Patios",
+                "Windows & Doors"
+            ]
+        },
+        {
+            "category": "Interior",
+            "services": [
+                "Architects, Builders & Engineers",
+                "Flooring",
+                "Carpentry & Woodworking",
+                "Cabinets",
+                "Countertops",
+                "Drywall & Insulation",
+                "Home Theater",
+                "Walls & Ceilings",
+                "Tiles & Stone"
+            ]
+        },
+        {
+            "category": "Other Services",
+            "services": [
+                "Foundations",
+                "Swimming Pools, Spas, Hot Tubs, & Saunas",
+                "Decorators & Designers",
+                "Home Inspectors & Appraisers",
+                "Other Services"
+            ]
+        }
+    ]
+}
