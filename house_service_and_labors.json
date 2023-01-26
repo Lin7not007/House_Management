@@ -1,3 +1,6 @@
+// Based on the company's business, analyze required labors for each field,
+// and create a list of labors for each one
+// https://www.homeadvisor.com/category/startRequest.html
 {
     "house_services": [
         {
@@ -7,6 +10,20 @@
                 "Bathroom remodel",
                 "Home addition",
                 "Basement finishing"
+            ],
+            "labors": [
+                "general contrctor",
+                "carpenter",
+                "plumber",
+                "electrician",
+                "tiler",
+                "Architects",
+                "designers",
+                "project managers",
+                "construction managers",
+                "structural engineers",
+                "interior designers",
+                "home inspectors"
             ]
         },
         {
@@ -16,6 +33,14 @@
                 "Solar panel installation",
                 "Energy audit",
                 "Geothermal heating and cooling"
+            ],
+            "labors": [
+                "electrician",
+                "plumber",
+                "general contractor",
+                "solar panel installer",
+                "energy auditor",
+                "geothermal heating and cooling installer"
             ]
         },
         {
@@ -25,6 +50,14 @@
                 "Lawn care",
                 "Snow removal",
                 "Pool maintenance"
+            ],
+            "labors": [
+                "handyman",
+                "house cleaner",
+                "gardener",
+                "pool cleaner",
+                "lawn care specialist",
+                "snow removal specialist"
             ]
         },
         {
@@ -34,6 +67,14 @@
                 "AC installation",
                 "Duct cleaning",
                 "Cooling system repair"
+            ],
+            "labors": [
+                "HVAC technician",
+                "AC repair specialist",
+                "AC installation specialist",
+                "duct cleaner",
+                "cooling system repair specialist",
+                "handyman"
             ]
         },
         {
@@ -43,6 +84,11 @@
                 "Fence repair",
                 "Fence staining",
                 "Fence replacement"
+            ],
+            "labors": [
+                "handyman",
+                "fence installer",
+                "fence repair specialist"                
             ]
         },
         {
@@ -52,6 +98,14 @@
                 "Construction management",
                 "Structural engineering",
                 "Project management"
+            ],
+            "labors": [
+                "architect",
+                "general contractor",
+                "construction manager",
+                "structural engineer",
+                "project manager",
+                "handyman"
             ]
         },
         {
@@ -61,6 +115,12 @@
                 "Carpet installation",
                 "Tile installation",
                 "Laminate flooring installation"
+            ],
+            "labors": [
+                "floor contractor",
+                "handyman",
+                "carpet installer",
+                "tile installer"
             ]
         },
         {
@@ -70,6 +130,12 @@
                 "Lawn care",
                 "Tree trimming",
                 "Garden design"
+            ],
+            "labors": [
+                "gardener",
+                "lawn care specialist",
+                "handyman",
+                "designers"
             ]
         },
         {
@@ -79,6 +145,11 @@
                 "Furniture making",
                 "Trim work",
                 "Deck building"
+            ],
+            "labors": [
+                "designers",
+                "carpenter",
+                "handyman"
             ]
         },
         {
@@ -88,6 +159,12 @@
                 "Garage door repair",
                 "Garage floor coating",
                 "Garage storage solutions"
+            ],
+            "labors": [
+                "garge door installer",
+                "garage door repair specialist",
+                "floor coating specialist",
+                "handyman"
             ]
         },
         {
@@ -97,6 +174,12 @@
                 "Exterior painting",
                 "Staining",
                 "Wallpapering"
+            ],
+            "labors": [
+                "handyman",
+                "painter",
+                "stainer",
+                "wallpaper installer"
             ]
         },
         {
@@ -106,6 +189,12 @@
                 "Cabinet refacing",
                 "Custom cabinetry",
                 "Cabinet repair"
+            ],
+            "labors": [
+                "handyman",
+                "cabiner repair specialist",
+                "cabinet installer",
+                "designers"
             ]
         },
         {
@@ -115,6 +204,14 @@
                 "Energy efficient windows",
                 "Water conservation",
                 "Insulation"
+            ],
+            "labors": [
+                "solar panel installer",
+                "handyman",
+                "window installer",
+                "insulation installer",
+                "plumber",
+                "electrician"
             ]
         },
         {
@@ -124,6 +221,10 @@
                 "Plumbing installation",
                 "Drain cleaning",
                 "Water heater installation/repair"
+            ],
+            "labors": [
+                "plumber",
+                "handyman"
             ]
         },
         {
@@ -133,15 +234,12 @@
                 "Carpet cleaning",
                 "Window cleaning",
                 "Gutter cleaning"
-            ]
-        },
-        {
-            "category": "Handyman",
-            "services": [
-                "Home repairs",
-                "Minor electrical work",
-                "Minor plumbing work",
-                "Hanging shelves and curtains"
+            ],
+            "labors": [
+                "house cleaner",
+                "carpet cleaner",
+                "window cleaner",
+                "gutter cleaner"
             ]
         },
         {
@@ -151,6 +249,10 @@
                 "Roof replacement",
                 "Gutter installation",
                 "Roof inspection"
+            ],
+            "labors": [
+                "roofer",
+                "handyman"
             ]
         },
         {
@@ -160,15 +262,12 @@
                 "Furnace replacement",
                 "Boiler repair",
                 "Boiler replacement"
-            ]
-        },
-        {
-            "category": "Siding",
-            "services": [
-                "Siding repair",
-                "Siding replacement",
-                "Vinyl siding",
-                "Aluminum siding"
+            ],
+            "labors": [
+                "heating contractor",
+                "handyman",
+                "plumber",
+                "electrician"
             ]
         },
         {
@@ -178,6 +277,11 @@
                 "Marble countertops",
                 "Laminate countertops",
                 "Quartz countertops"
+            ],
+            "labors": [
+                "countertop installer",
+                "handyman",
+                "designers"
             ]
         },
         {
@@ -187,6 +291,20 @@
                 "Home remodel",
                 "Home addition",
                 "Home renovation"
+            ],
+            "labors": [
+                "general contrctor",
+                "carpenter",
+                "plumber",
+                "electrician",
+                "tiler",
+                "Architects",
+                "designers",
+                "project managers",
+                "construction managers",
+                "structural engineers",
+                "interior designers",
+                "home inspectors"
             ]
         },
         {
@@ -196,6 +314,12 @@
                 "Swimming pool repair",
                 "Hot tub installation",
                 "Sauna installation"
+            ],
+            "labors": [
+                "pool contractor",
+                "handyman",
+                "plumber",
+                "electrician"
             ]
         },
         {
@@ -205,6 +329,11 @@
                 "Home staging",
                 "Furniture selection",
                 "Color consultation"
+            ],
+            "labors": [
+                "designers",
+                "interior designers",
+                "handyman"
             ]
         },
         {
@@ -214,6 +343,11 @@
                 "Appraisal",
                 "Radon testing",
                 "Mold testing"
+            ],
+            "labors": [
+                "home inspectors",
+                "appraiser",
+                "handyman"
             ]
         },
         {
@@ -223,6 +357,11 @@
                 "Tile repair",
                 "Marble installation",
                 "Granite installation"
+            ],
+            "labors": [
+                "stone installer",
+                "tile installer",
+                "handyman"
             ]
         },
         {
@@ -232,6 +371,12 @@
                 "Home theater design",
                 "Home theater repair",
                 "Home theater upgrade"
+            ],
+            "labors": [
+                "home theater installer",
+                "handyman",
+                "home theater specialist",
+                "home theater repair specialist"
             ]
         },
         {
@@ -241,6 +386,10 @@
                 "Drywall repair",
                 "Popcorn ceiling removal",
                 "Textured ceiling repair"
+            ],
+            "labors": [
+                "handyman",
+                "wallpaper installer"
             ]
         },
         {
@@ -250,6 +399,10 @@
                 "Deck repair",
                 "Patio installation",
                 "Porch installation"
+            ],
+            "labors": [
+                "designers",
+                "handyman"
             ]
         },
         {
@@ -259,6 +412,12 @@
                 "Weatherstripping",
                 "Caulking",
                 "Draft sealing"
+            ],
+            "labors": [
+                "roofer",
+                "handyman",
+                "plumber",
+                "electrician"
             ]
         },
         {
@@ -268,6 +427,11 @@
                 "Window repair",
                 "Door installation",
                 "Door repair"
+            ],
+            "labors": [
+                "handyman",
+                "window installer",
+                "door installer"
             ]
         },
         {
@@ -277,12 +441,17 @@
                 "Electrical repair",
                 "Computer repair",
                 "Computer networking"
+            ],
+            "labors": [
+                "smart home technician",
+                "handyman",
+                "electrician"
             ]
         },
         {
             "category": "Other services",
             "services": [
-                "Other services not listed"
+                "N/A"
             ]
         }
     ]
