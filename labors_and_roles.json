@@ -1,0 +1,121 @@
+{
+    "labors": [
+      {
+        "name": "General contractor",
+        "business_areas": ["Additions & Remodels","Architects, builders & engineers", "Energy efficiency", "Home Construction"]
+      },
+      {
+        "name": "Carpenter",
+        "business_areas": ["Additions & Remodels", "Carpentry & Woodworking", "Home construction", "Decks, Porches & Patios"]
+      },
+      {
+        "name": "Electrician",
+        "business_areas": ["Additions & Remodels", "Home winterization", "Swimming pools, spas, hot tubs, & saunas", "Home construction", "Heating & furnaces", "Green home improvement projects", "Energy efficiency", "Electrical & Computers"]
+      },
+      {
+        "name": "Plumber",
+        "business_areas": ["Additions & Remodels", "Home winterization", "Home construction", "Heating & furnaces", "Green home improvement projects", "Energy efficiency", "Swimming pools, spas, hot tubs, & saunas", "Plumbing"]
+      },
+      {
+        "name": "Painter",
+        "business_areas": ["Painting & Staining"]
+      },
+      {
+        "name": "Energy auditor",
+        "business_areas": ["Energy Efficiency", "Green home improvement projects"]
+      },
+      {
+        "name": "Insulation technician",
+        "business_areas": ["Home winterization", "Green home improvement projects", "Energy Efficiency"]
+      },
+      {
+        "name": "HVAC technician",
+        "business_areas": ["AC & Cooling"]
+      },
+      {
+        "name": "Solar panel installer",
+        "business_areas": ["Energy Efficiency", "Green Home Improvement Projects"]
+      },
+      {
+        "name": "Cleaner",
+        "business_areas": ["AC & cooling", "Household Chores", "Clean Services"]
+      },
+      {
+        "name": "Handyman",
+        "business_areas": ["Household Chores", "Windows & doors", "Home winterization", "Decks, porches & patios", "Walls & ceilings", "Electrical & computers", "Home theater", "Tiles & stone", "Home inspectors & appraisers", "Decorators & designers", "Swimming pools, spas, hot tubs, & saunas", "Roofing", "Countertops", "Heating & furnaces", "Plumbing", "Green home improvement projects", "Cabinets", "Painting & staining", "Garage", "Carpentry & woodworking", "Landscape, yard, & garden", "Flooring", "Architects, builders & engineers", "Fences", "AC & cooling", "Other Services"]
+      },
+      {
+        "name": "Fence installer",
+        "business_areas": ["Fences"]
+      },
+      {
+        "name": "Fence repair specialist",
+        "business_areas": ["Fences"]
+      },
+      {
+        "name": "Architect",
+        "business_areas": ["Home construction", "Additions & remodels", "Architects,  Builders & Engineers"]
+      },
+      {
+        "name": "Engineer",
+        "business_areas": ["Home construction", "Additions & remodels", "Architects, Builders & Engineers"]
+    },
+    {
+      "name": "Flooring contractor",
+      "business_areas": ["Flooring"]
+    },
+    {
+      "name": "Landscaper",
+      "business_areas": ["Landscape, Yard & Garden"]
+    },
+    {
+      "name": "Gardener",
+      "business_areas": ["Household chores", "Landscape, Yard & Garden"]
+    },
+    {
+      "name": "Cabinet maker",
+      "business_areas": ["Carpentry & woodworking", "Cabinets"]
+    },
+    {
+      "name": "Roofer",
+      "business_areas": ["Home winterization", "Roofing"]
+    },
+    {
+      "name": "Countertop installer",
+      "business_areas": ["Countertops"]
+    },
+    {
+      "name": "Pool & spa contractor",
+      "business_areas": ["Swimming Pools, Spas, Hot Tubs & Saunas"]
+    },
+    {
+      "name": "Interior designer",
+      "business_areas": ["Additions & remodels", "Home construction", "Decorators & Designers"]
+    },
+    {
+      "name": "Home inspector",
+      "business_areas": ["Additions & remodels", "Home construction", "Home Inspectors & Appraisers"]
+    },
+    {
+      "name": "Home appraiser",
+      "business_areas": ["Home Inspectors & Appraisers"]
+    },
+    {
+      "name": "Tiler",
+      "business_areas": ["Additions & remodels", "Home construction", "Flooring", "Tiles & Stone"]
+    },
+    {
+      "name": "Home theater installer",
+      "business_areas": ["Home Theater"]
+    },
+    {
+      "name": "Electrician",
+      "business_areas": ["Additions & remodels", "Home winterization", "Swimming pools, spas, hot tubs, & saunas", "Home construction", "Heating & furnaces", "Green home improvement projects", "Energy efficiency", "Electrical & Computers"]
+    },
+    {
+      "name": "Other service contractor",
+      "business_areas": ["Other Services"]
+    }
+  ]
+}
+  

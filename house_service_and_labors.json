@@ -117,10 +117,10 @@
                 "Laminate flooring installation"
             ],
             "labors": [
-                "floor contractor",
+                "flooring contractor",
                 "handyman",
                 "carpet installer",
-                "tile installer"
+                "tiler"
             ]
         },
         {
@@ -149,7 +149,8 @@
             "labors": [
                 "designers",
                 "carpenter",
-                "handyman"
+                "handyman",
+                "cabiner maker"
             ]
         },
         {
@@ -192,8 +193,7 @@
             ],
             "labors": [
                 "handyman",
-                "cabiner repair specialist",
-                "cabinet installer",
+                "cabiner maker",
                 "designers"
             ]
         },
@@ -316,7 +316,7 @@
                 "Sauna installation"
             ],
             "labors": [
-                "pool contractor",
+                "pool & spa contractor",
                 "handyman",
                 "plumber",
                 "electrician"
@@ -402,7 +402,8 @@
             ],
             "labors": [
                 "designers",
-                "handyman"
+                "handyman",
+                "carpenter"
             ]
         },
         {
