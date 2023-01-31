@@ -1,0 +1,923 @@
+[
+    {
+        "super_category": "Additions & Remodels",
+        "categories": [
+            "Additions",
+            "Bathroom Remodel",
+            "Basement Remodel",
+            "Kitchen Remodel",
+            "Garage Remodel",
+            "Major Renovation - Multiple Rooms",
+            "Minor Remodels",
+            "Outbuildings & Structures",
+            "Recovery Services - Disaster",
+            "Site Preparation",
+            "Specialty - Disability, Chairlifts, Elevators",
+            "Swimming Pool - Remodel",
+            "Show More"
+        ],
+        "workers": [
+            "Home Inspectors",
+            "Electricians",
+            "Plumbers",
+            "HVAC Specialists",
+            "Roofing Contractors",
+            "Painting Contractors",
+            "Masonry Contractors",
+            "Carpenters",
+            "Landscapers",
+            "Interior Designers",
+            "Architects",
+            "Builders (New Home)",
+            "Engineers",
+            "General Contractors",
+            "Land Surveyor",
+            "Construction Manager",
+            "Draftsperson / CADD",
+            "Permit Service"
+        ]
+    },
+    {
+        "super_category": "Air Conditioning & Cooling",
+        "categories": [
+            "Central Air Conditioning - Install",
+            "Central Air Conditioning - Repair or Service",
+            "Fans",
+            "Swamp Cooler - Install or Replace",
+            "Window A/C Unit - Install",
+            "Outdoor Mist Cooling System - Install",
+            "Outdoor Mist Cooling System - Repair",
+            "Refrigeration System - Install or Replace",
+            "Refrigeration System - Repair or Service",
+            "Swamp Cooler - Service or Repair",
+            "Window A/C Unit - Service or Relocate",
+            "Show More"
+        ],
+        "workers": [
+            "HVAC Technician",
+            "Electrician",
+            "Handymen",
+            "Plumber",
+            "Refrigeration Technician",
+            "Swamp Cooler Technician",
+            "Window A/C Technician",
+            "Outdoor Mist Cooling System Technician",
+            "Refrigeration Technician"
+        ]
+    },
+    {
+        "super_category": "Architects, Builders & Engineers",
+        "categories": [
+            "Architects",
+            "Builders (New Home)",
+            "Engineers",
+            "General Contractors",
+            "Land Surveyor",
+            "Construction Manager",
+            "Developer",
+            "Draftsperson / CADD",
+            "Permit Service",
+            "Show More"
+        ],
+        "workers": [    
+            "Architects",
+            "Builders (New Home)",    
+            "Engineers",    
+            "General Contractors",    
+            "Land Surveyor",    
+            "Construction Manager",    
+            "Draftsperson / CADD",    
+            "Permit Service",
+            "Home Inspectors",    
+            "Electricians",    
+            "Plumbers",    
+            "HVAC Specialists",    
+            "Roofing Contractors",    
+            "Painting Contractors",    
+            "Masonry Contractors",    
+            "Carpenters",    
+            "Landscapers",    
+            "Interior Designers"
+        ]
+    },
+    {
+        "super_category": "Bathroom Remodeling",
+        "categories": [
+            "Bathroom Remodeling & Design",
+            "Cabinets & Countertops",
+            "Painting & Staining",
+            "Plumbing",
+            "Tile",
+            "Electrical",
+            "Flooring",
+            "Glass & Mirrors",
+            "Hot Tubs & Spas",
+            "Walls & Ceilings",
+            "Windows & Doors",
+            "Show More"
+        ],
+        "workers": [
+            "Home Inspectors",
+            "Electricians",
+            "Plumbers",
+            "HVAC Specialists",
+            "Painting Contractors",
+            "Carpenters",
+            "Interior Designers"
+        ]
+    },
+    {
+        "super_category": "Carpentry & Woodworking",
+        "categories": [
+            "Cabinets & Countertops",
+            "Decks, Fences & Ramps",
+            "Doors",
+            "Finish Carpentry, Trim & Molding",
+            "Framing",
+            "Closets",
+            "Outbuildings, Sheds & Gazebos",
+            "Stairs & Railings",
+            "Siding, Gutters & Exterior Trim",
+            "Show More"
+        ],
+        "workers": [
+            "Carpenters",
+            "Painting Contractors",
+            "Interior Designers",
+            "Masonry Contractors"
+        ]
+    },
+    {
+        "super_category": "Cabinets",
+        "categories": [
+            "Cabinets - Install",
+            "Cabinets - Reface",
+            "Custom Cabinets or Built-In Furniture",
+            "Cabinets - Refinish",
+            "Countertops",
+            "Cabinets - Repair",
+            "Closet - Build",
+            "Closets or Rooms - Organize",
+            "Garage Organizers - Install",
+            "Show More"
+        ],
+        "workers": [
+            "Carpenters",
+            "Interior Designers",
+            "Painting Contractors",
+            "Countertop Installers"
+            ]
+    },
+    {
+        "super_category": "Cleaning Services",
+        "categories": [
+            "Maid Service",
+            "Carpet & Draperies",
+            "Windows",
+            "Exterior Home",
+            "Interior Home",
+            "Property Cleanup",
+            "Ducts & Vents - Clean",
+            "Chimney & Fireplace - Clean",
+            "Post-Construction Cleanup",
+            "Waste Material & Junk Removal",
+            "Show More"
+        ],
+        "workers": [
+            "Maids",
+            "Windows Cleaners",
+            "Ducts & Vents Cleaners",
+            "Chimney & Fireplace Cleaners",
+            "Post-Construction Cleaners",
+            "Waste Material & Junk Removal Specialists",
+            "Carpet & Draperies Cleaners"
+        ]
+    },
+    {
+        "super_category": "Concrete, Brick & Stone",
+        "categories": [
+            "Driveways & Floors",
+            "Patios, Walks & Steps",
+            "Chimney, Fireplace, Stove & Barbecue",
+            "Foundations",
+            "Siding - Brick, Stone, or Stucco",
+            "Tile & Countertops",
+            "Waterproofing & Drywells",
+            "Other Concrete Services",
+            "Walls",
+            "Show More"
+        ],
+        "workers": [
+            "Masonry Contractors",
+            "Concrete Contractors",
+            "Roofing Contractors",
+            "Plumbers",
+            "Electricians",
+            "HVAC Specialists",
+            "Interior Designers",
+            "Landscapers",
+            "Painting Contractors"
+        ]
+    },
+    {
+        "super_category": "Countertops",
+        "categories": [
+            "Ceramic & Porcelain Tile - Install",
+            "Stone Slab (Granite, Quartz, etc.) - Install",
+            "Laminate Countertops - Install",
+            "Solid Surface (Corian, Concrete, etc.) - Install",
+            "Natural Stone Tile - Install",
+            "Tile, Stone, Grout - Clean",
+            "Ceramic & Porcelain Tile - Repair",
+            "Stone Slab (Granite, Quartz, etc.) - Repair",
+            "Laminate Countertops - Repair",
+            "Solid Surface (Corian, Concrete, etc.) - Repair",
+            "Natural Stone Tile - Repair",
+            "Show More"
+        ],
+        "workers": [
+            "Countertop Installers",
+            "Tile Installers",
+            "Masonry Contractors",
+            "Interior Designers",
+            "Painting Contractors"
+        ]
+    },
+    {
+        "super_category": "Decorators & Designers",
+        "categories": [
+            "Designer - Kitchen",
+            "Designer - Building",
+            "Interior Decorator",
+            "Designer - Landscape",
+            "Designer - Residential (Interior Space Planner)",
+            "Consultant - Professional Home or Office Organizer",
+            "Designer - Bathroom",
+            "Designer - Feng Shui",
+            "Designer - Interior Lighting Plan",
+            "Designer - Window Treatments",
+            "Disability Planner",
+            "Show More"
+        ],
+        "workers": [
+            "Interior Designers",
+            "Landscape Designers",
+            "Feng Shui Specialists",
+            "Disability Planners",
+            "Professional Organizers"
+        ]
+    },
+    {
+        "super_category": "Drywall & Insulation",
+        "categories": [
+            "Drywall - Install",
+            "Drywall - Repair",
+            "Batt, Rolled & Reflective Insulation",
+            "Blown-In Insulation",
+            "Soundproofing",
+            "Spray Foam Insulation"
+        ],
+        "workers": [
+            "Drywall Contractors",
+            "Insulation Contractors",
+            "Painting Contractors"
+        ]
+    },
+    {
+        "super_category": "Decks, Porches & Patios",
+        "categories": [
+            "Build a Deck or Porch",
+            "Build a Patio",
+            "Clean & Seal a Deck or Porch",
+            "Build an Arbor, Pergola, or Trellis",
+            "Build a Gazebo",
+            "Repair a Deck or Porch",
+            "Repair a Gazebo",
+            "Install Outdoor Play Equipment",
+            "Repair Outdoor Play Equipment",
+            "Show More"
+        ],
+        "workers": [
+            "Deck Builders",
+            "Patio Builders",
+            "Gazebo Builders",
+            "Painting Contractors",
+            "Plumbers",
+            "Electricians",
+            "HVAC Specialists",
+            "Designers"
+        ]
+    },
+    {
+        "super_category": "Electrical & Computers",
+        "categories": [
+            "Outlets, Panels, Switches & Wiring",
+            "Cables, Networks & Telephones",
+            "Electronics, Computers & Home Media Systems",
+            "Appliances",
+            "Fans",
+            "Generators",
+            "Heating & Thermostats",
+            "Home Security & Alarms",
+            "Lighting Design",
+            "Show More"
+        ],
+        "workers": [
+            "Electricians",
+            "Cable Installers",
+            "Home Theater Installers",
+            "Appliance Repairers",
+            "Fan Installers",
+            "Generator Installers",
+            "Heating & Air Conditioning Contractors",
+            "Home Security System Installers",
+            "Interior Designers",
+            "Smart Home Planners"
+        ]
+    },
+    {
+        "super_category": "Energy Efficiency",
+        "categories": [
+            "Energy Efficient Home Heating",
+            "Home Insulation & Weatherstripping",
+            "Home Solar Energy",
+            "Energy Efficient Windows & Doors",
+            "Home Energy Audit",
+            "Energy Efficient Appliances",
+            "Geothermal Energy",
+            "Show More"
+        ],
+        "workers": [
+            "Insulation Contractors",
+            "Solar Energy Contractors",
+            "Window Installers",
+            "Door Installers",
+            "Energy Auditors",
+            "Geothermal Energy Contractors",
+            "Plumbers",
+            "Electricians",
+            "HVAC Specialists"
+        ]
+    },
+    {
+        "super_category": "Fences",
+        "categories": [
+            "Wood Fence - Install",
+            "Vinyl or PVC Fence - Install",
+            "Chain Link Fence - Install",
+            "Wrought Iron Fence - Install",
+            "Aluminum or Steel Fence - Install",
+            "Aluminum or Steel Fence - Repair",
+            "Barbed Wire Fence - Install",
+            "Barbed Wire Fence - Repair",
+            "Chain Link Fence - Repair or Alter",
+            "Gate for Driveway or Security - Install or Replace",
+            "Vinyl or PVC Fence - Repair",
+            "Wood Fence - Repair",
+            "Wrought Iron Fence - Repair or Weld",
+            "Show More"
+        ],
+        "workers": [
+            "Fence Contractors",
+            "Gate Installers",
+            "Masonry Contractors",
+            "Electricians",
+            "Designers",
+            "Painting Contractors"
+        ]
+    },
+    {
+        "super_category": "Flooring",
+        "categories": [
+            "Brick & Stone",
+            "Carpet",
+            "Hardwood",
+            "Laminate & Vinyl",
+            "Tile",
+            "Concrete",
+            "Sports Surfaces (Tennis, Courts and Synthetic Grass)",
+            "Show More"
+        ],
+        "workers": [
+            "Carpet Installers",
+            "Floor Installers",
+            "Tile Contractors",
+            "Sports Surface Contractors",
+            "Masonry Contractors"
+        ]
+    },
+    {
+        "super_category": "Foundations",
+        "categories": [
+            "Concrete Foundation - Install",
+            "Concrete Foundation - Repair or Raise",
+            "Foundation Drainage - Install or Replace",
+            "Foundation or Basement - Waterproofing"
+        ],
+        "workers": [
+            "Concrete Contractors",
+            "Architects",
+            "Engineers",
+            "Project Managers",
+            "Masonry Contractors"
+        ]
+    },
+    {
+        "super_category": "Garage",
+        "categories": [
+            "Garage - Build",
+            "Garage - Remodel",
+            "Garage Door - Install or Replace",
+            "Garage Door Opener - Install",
+            "Garage Organizers - Install",
+            "Garage Door - Repair",
+            "Garage Door Opener - Repair or Adjust",
+            "Waste Material & Junk Removal",
+            "Show More"
+        ],
+        "workers": [
+            "Garage Builders",
+            "Garage Door Installers",
+            "Garage Organizers",
+            "Junk Removal Services"
+        ]
+    },
+    {
+        "super_category": "Green Home Improvement Projects",
+        "categories": [
+            "Home Solar Energy",
+            "Energy Efficient Windows & Doors",
+            "Home Insulation & Weatherstripping",
+            "Energy Efficient Appliances",
+            "Energy Efficient Home Heating",
+            "Home Energy Audit",
+            "Home/Roof Skylights",
+            "Geothermal Energy",
+            "Show More"
+        ],
+        "workers": [
+            "Solar Energy Contractors",
+            "Window Installers",
+            "Door Installers",
+            "Insulation Contractors",
+            "Appliance Repairers",
+            "Energy Auditors",
+            "HVAC Specialists",
+            "Plumbers",
+            "Electricians",
+            "Geothermal Energy Contractors"
+        ]
+    },
+    {
+        "super_category": "Handyman Services",
+        "categories": [
+            "Carpentry",
+            "Gutters",
+            "Handyman for Multiple Small Projects",
+            "Painting, Staining & Drywall",
+            "Electrical",
+            "Plumbing & Sprinklers",
+            "Other Handyman Services",
+            "Show More"
+        ],
+        "workers": [
+            "Carpenters",
+            "Gutter Installers",
+            "Gutter Cleaners",
+            "Painters",
+            "Electricians",
+            "Plumbers"
+        ]
+    },
+    {
+        "super_category": "Heating & Furnaces",
+        "categories": [
+            "Boilers & Radiators",
+            "Central Heating Systems",
+            "Electric Wall & Radiant Heat Systems",
+            "Fans",
+            "Water Heaters",
+            "Ducts & Vents",
+            "Fireplaces, Inserts, Stoves & Barbecues",
+            "Fuel Delivery & Storage",
+            "Insulation",
+            "Thermostats & Accessories",
+            "Other HVAC Types",
+            "Show More"
+        ],
+        "workers": [
+            "Boiler Installers",
+            "Central Heating Specialists",
+            "Electric Wall & Radiant Heat Specialists",
+            "Fan Installers",
+            "Water Heater Specialists",
+            "Duct Specialists",
+            "Fireplace Specialists",
+            "Fuel Delivery & Storage Specialists",
+            "Insulation Contractors",
+            "Thermostat Contractors",
+            "HVAC Specialists",
+            "Plumbers",
+            "Electricians"
+        ]
+    },
+    {
+        "super_category": "Home Construction",
+        "categories": [
+            "Additions",
+            "Major Remodels & Renovations",
+            "New Home Construction",
+            "Outbuildings & Structures",
+            "Site Preparation"
+        ],
+        "workers": [
+            "General Contractors",
+            "Home Builders",
+            "Architects",
+            "Engineers",
+            "Project Managers",
+            "Home Inspectors",
+            "Plumbers",
+            "Electricians",
+            "HVAC Specialists",
+            "Interior Designers",
+            "Painting Contractors"
+        ]
+    },
+    {
+        "super_category": "Home Inspectors & Appraisers",
+        "categories": [
+            "Appraisal - Real Estate",
+            "Appraisal - General",
+            "Home Inspector",
+            "Inspection - Roofing",
+            "Inspection - Waterproofing"
+        ],
+        "workers": [
+            "Real Estate Appraisers",
+            "General Appraisers",
+            "Home Inspectors",
+            "Roofing Inspectors",
+            "Waterproofing Specialists"
+        ]
+    },
+    {
+        "super_category": "Home Theater",
+        "categories": [
+            " Home Theater System or Media Center - Install",
+            "Home Automation - Install or Service",
+            "Home Theater Surround Sound System - Insall",
+            "Install, Repair or Conceal Home Theater Wiring",
+            "TV Wall Mount",
+            "Antenna",
+            "Electronic Drape, Shade or Blind Opener - Install",
+            "Home Theater Accessory",
+            "Home Theater System or Media Center - Repair",
+            "Satellite Dish System",
+            "Universal Remote Control Consolidation & Programming",
+            "Satellite Dish - Install",
+            "Satellite Dish - Repair",
+            "Show More"
+        ],
+        "workers": [
+            "Home Theater Planners",
+            "Home Automation Specialists",
+            "Home Theater Installers",
+            "Satellite Dish Installers",
+            "Universal Remote Control Consolidation & Programming Specialists",
+            "Electricians",
+            "Interior Designers"
+        ]
+    },
+    {
+        "super_category": "Home Winterization",
+        "categories": [
+            "Home Insulation & Weatherstripping",
+            "Energy Efficient Home Heating",
+            "Energy Efficient Windows & Doors",
+            "Chimney or Fireplace - Clean and Inspect",
+            "Winterize Roofing/Gutters",
+            "Winterize Lawn/Landscape",
+            "Home Energy Audit",
+            "Gutters & Downspouts - Clean",
+            "Snow Removal",
+            "Show More"
+        ],
+        "workers": [
+            "Home Insulation & Weatherstripping Installers",
+            "Energy Efficient Home Heating Installers",
+            "Energy Efficient Windows & Doors Installers",
+            "Chimney or Fireplace Cleaners",
+            "Home Energy Auditors",
+            "Gutters & Downspouts Cleaners",
+            "Snow Removers",
+            "Plumbers",
+            "Electricians",
+            "HVAC Specialists"
+        ]
+    },
+    {
+        "super_category": "Household Chores",
+        "categories": [
+            "Furniture Assembly",
+            "Packing & Unpacking Services",
+            "Lifting & Moving Heavy Items",
+            "Box Recycling & Disposal",
+            "Yard & Garden Work",
+            "Toys & Games Assembly",
+            "Outdoor Equipment & Furniture Assembly",
+            "Show More"
+        ],
+        "workers": [
+            "Handymen"
+        ]
+        
+    },
+    {
+        "super_category": "Moving & Storage",
+        "categories": [
+            "Painting & Staining",
+            "Professional Moving Services",
+            "Storage",
+            "Waste Material & Junk Removal",
+            "Consultants & Move-Related Professionals",
+            "Home Security & Alarms",
+            "Cleaning Services",
+            "Wiring, Cabling, and Telephones",
+            "Appraisers & Home Inspectors",
+            "Show More"
+        ],
+        "workers": [
+            "Painting Contractors",
+            "Professional Movers",
+            "Storage Providers",
+            "Waste Material & Junk Removers",
+            "Consultants & Move-Related Professionals",
+            "Home Security & Alarm Providers",
+            "Cleaning Service Providers",
+            "Wiring, Cabling, and Telephone Providers",
+            "Appraisers & Home Inspectors"
+        ]
+    },
+    {
+        "super_category": "Kitchen Remodeling",
+        "categories": [
+            "Kitchen Remodeling & Design",
+            "Cabinets & Countertops",
+            "Painting & Staining",
+            "Plumbing",
+            "Tile",
+            "Appliances",
+            "Electrical",
+            "Flooring",
+            "Walls & Ceilings",
+            "Windows & Doors",
+            "Show More"
+        ],
+        "workers": [
+            "Kitchen Remodelers & Designers",
+            "Painting Contractors",
+            "Plumbers",
+            "Tile Installers",
+            "Appliance Installers",
+            "Electricians",
+            "Flooring Installers",
+            "Interior Designers"
+        ]
+    },
+    {
+        "super_category": "Landscape, Yard & Garden",
+        "categories": [
+            "Landscaping - Design & Installation",
+            "Landscaping - Maintenance of Lawn & Trees",
+            "Landscaping - Sprinkler Systems",
+            "Pools & Water Features",
+            "Tree & Shrub Service",
+            "Decks, Porches, Gazebos & Play Equipment",
+            "Fences",
+            "Outdoor Patios, Steps & Walkways",
+            "Outdoor Walls & Retaining Walls",
+            "Show More"
+        ],
+        "workers": [
+            "Landscapers",
+            "Gardener",
+            "Sprinkler System Specialists",
+            "Pool & Water Feature Installers",
+            "Deck, Porch, Gazebo & Play Equipment Installers",
+            "Fence Contractors",
+            "Outdoor Patio, Step & Walkway Installers",
+            "Outdoor Wall & Retaining Wall Installers",
+            "Masonry Contractors",
+            "Plumbers",
+            "Electricians"
+        ]
+    },
+    {
+        "super_category": "Painting & Staining",
+        "categories": [
+            "Exterior Painting or Staining",
+            "Interior Painting or Staining",
+            "Special Finishes",
+            "Paint Preparation",
+            "Paint Removal and Cleaning",
+            "Decorators & Designers",
+            "Wallpapering",
+            "Show More"
+        ],
+        "workers": [
+            "Painter",
+            "Wallpaper Installers",
+            "Interior Designers",
+            "Painting Contractors"
+        ]
+    },
+    {
+        "super_category": "Plumbing",
+        "categories": [
+            "Drain Clearing",
+            "Faucets, Fixtures & Pipes",
+            "Septic Systems, Sewers & Water Mains",
+            "Sprinkler Systems",
+            "Water Heaters",
+            "Boilers & Radiators",
+            "Hot Tubs & Spas",
+            "Pumps",
+            "Water Softening & Purification",
+            "Other Plumbing Related Jobs",
+            "Show More"
+        ],
+        "workers": [
+            "Drain Clearing Workers",
+            "Plumbing Contractors",
+            "Septic System, Sewer & Water Main Specialists",
+            "Water Heater Specialists",
+            "Boiler & Radiator Specialists",
+            "Hot Tub & Spa Contractors",
+            "Electricians",
+            "HVAC Specialists",
+        ]
+    },
+    {
+        "super_category": "Roofing",
+        "categories": [
+            "Roofing - Install or Replace",
+            "Roofing - Repair",
+            "Roofing & Gutters - Clean",
+            "Gutters",
+            "Skylights",
+            "Inspection - Roofing",
+            "Heating Cable for Roof - Install",
+            "Sealant for Roof - Apply",
+            "Metal Roofing - Paint",
+            "Show More"
+        ],
+        "workers": [
+            "Roofers",
+            "Roofing Contractors",
+            "Electrician",
+            "Roof Inspectors"
+        ]
+    },
+    {
+        "super_category": "Siding",
+        "categories": [
+            "Vinyl Siding - Install",
+            "Vinyl Siding - Repair",
+            "Wood or Fiber Cement - Install",
+            "Metal Siding - Install",
+            "Traditional Stucco - Install",
+            "Asbestos Siding - Repair",
+            "Brick or Stone Siding - Install",
+            "Brick or Stone Siding - Repair",
+            "Exterior Trim - Install",
+            "Exterior Trim - Repair",
+            "Metal Siding - Repair",
+            "Spray-on Siding - Apply",
+            "Synthetic Stucco Siding - Install",
+            "Synthetic Stucco Siding - Repair",
+            "Traditional Stucco Siding - Repair",
+            "Wood or Fiber Cement - Repair",
+            "Show More"
+        ],
+        "workers": [
+            "Sidingf Contractors",
+            "Siding Installers",
+            "Spray-on Siding Applicators",
+            "Designers"
+        ]
+    },
+    {
+        "super_category": "Swimming Pools, Spas, Hot Tubs & Saunas",
+        "categories": [
+            "Gazebos & Enclosures",
+            "Hot Tubs & Spas",
+            "Saunas",
+            "Swimming Pool Decks & Patios",
+            "Swimming Pools"
+        ],
+        "workers": [
+            "Hot Tub, Sauna & Spa Contractors",
+            "Swimming Pool Contractors",
+            "Swimming Pool Installers",
+            "Swimming Pool Specialists",
+            "Plumbers",
+            "Electricians",
+            "HVAC Specialists",
+        ]
+    },
+    {
+        "super_category": "Tile & Stone",
+        "categories": [
+            "Tile: Ceramic & Porcelain - Install",
+            "Tile: Natural Stone - Install",
+            "Pavers for Driveways & Floors - Install",
+            "Brick & Stone for Patios - Install",
+            "Tile, Stone, Grout - Clean",
+            "Pavers for Patios, Walks & Steps - Install",
+            "Tile: Ceramic & Porcelain - Repair",
+            "Tile: Natural Stone - Repair",
+            "Brick & Stone for Patios - Repair",
+            "Show More"
+        ],
+        "workers": [
+            "Tile & Stone Contractors",
+            "Paver",
+            "Designers",
+            "Masonry Contractors"
+        ]
+    },
+    {
+        "super_category": "Walls & Ceilings",
+        "categories": [
+            "Painting & Texturing",
+            "Carpentry - Trim Work & Framing",
+            "Ceilings",
+            "Ceilings - Fans",
+            "Drywall & Insulation",
+            "Cleaning",
+            "Tile",
+            "Wallcoverings",
+            "Walls - Exterior",
+            "Walls - Interior",
+            "Show More"
+        ],
+        "workers": [
+            "Painters",
+            "Carpenters",
+            "Ceiling Installers",
+            "Ceiling Fan Installers",
+            "Paver",
+            "Exterior Wall Installers",
+            "Painting Contractors"
+        ]
+    },
+    {
+        "super_category": "Windows & Doors",
+        "categories": [
+            "Windows - Installation & Repair",
+            "Doors - Garage, Sliding, Glass, etc.",
+            "Hardware, Locks & Screens",
+            "Windows - Cleaning",
+            "Windows - Treatments",
+            "Glass & Mirrors",
+            "Awnings & Patio Covers",
+            "Windows - Protection & Tinting",
+            "Show More"
+        ],
+        "workers": [
+            "Window Installers",
+            "Door Installers",
+            "Hardware, Locks & Screen Installers",
+            "Window Cleaners",
+            "Awnings & Patio Cover Installers",
+            "Window Protection & Tinting Installers"
+        ]
+    },
+    {
+        "super_category": "Other Services",
+        "categories": [
+            "Environmental (Asbestos, Lead, Mold, and Radon Gas)",
+            "Fireplaces, Inserts, Stoves, and Barbecues",
+            "Furniture",
+            "Home Security",
+            "Metal Work, Blacksmiths and Signmakers",
+            "Pest Control (Birds, Insects, Rodents, Termites)",
+            "Recovery Services (Water, Fire, etc)",
+            "Removal of Junk or Building Materials",
+            "Water Softening & Purification"
+        ],
+        "workers": [
+            "Environmental Specialists",
+            "Fireplace Installers",
+            "Home Security Installers",
+            "Metal Workers",
+            "Pest Control Specialists",
+            "Recovery Specialists",
+            "Junk Removal Specialists",
+            "Water Softening & Purification Specialists",
+            "Electricians",
+            "HVAC Specialists"
+        ]
+    }
+]
