@@ -23,6 +23,9 @@ for super_category in super_categories:
     categories = super_category.find_all("a", class_="category")
     # Use a list to store all sub-categories
     category_titles = [category.text for category in categories]
+    # Ignore the "Show More" category
+    if category_titles[-1] == "Show More":
+        category_titles.pop()
     # Append the super-category and its titles to the data list
     data.append({super_category_title: category_titles})
 
