@@ -24,6 +24,7 @@
             "Roofing Contractors",
             "Painting Contractors",
             "Masonry Contractors",
+            "Drywall Contractors",
             "Carpenters",
             "Landscapers",
             "Interior Designers",
@@ -31,6 +32,7 @@
             "Builders (New Home)",
             "Engineers",
             "General Contractors",
+            "Paver",
             "Land Surveyor",
             "Construction Manager",
             "Draftsperson / CADD",
@@ -62,7 +64,8 @@
             "Swamp Cooler Technician",
             "Window A/C Technician",
             "Outdoor Mist Cooling System Technician",
-            "Refrigeration Technician"
+            "Refrigeration Technician",
+            "Fan Installers"
         ]
     },
     {
@@ -123,7 +126,8 @@
             "HVAC Specialists",
             "Painting Contractors",
             "Carpenters",
-            "Interior Designers"
+            "Interior Designers",
+            "Windows & Doors Installers"
         ]
     },
     {
@@ -144,7 +148,13 @@
             "Carpenters",
             "Painting Contractors",
             "Interior Designers",
-            "Masonry Contractors"
+            "Masonry Contractors",
+            "Deck Contractors",
+            "Fence Contractors",
+            "Pavers",
+            "Door Installer",
+            "Painters",
+            "General Contractors"
         ]
     },
     {
@@ -165,7 +175,8 @@
             "Carpenters",
             "Interior Designers",
             "Painting Contractors",
-            "Countertop Installers"
+            "Countertop Installers",
+            "Handymen"
             ]
     },
     {
@@ -305,7 +316,8 @@
             "Plumbers",
             "Electricians",
             "HVAC Specialists",
-            "Designers"
+            "Designers",
+            "Handymen"
         ]
     },
     {
@@ -380,10 +392,7 @@
         "workers": [
             "Fence Contractors",
             "Gate Installers",
-            "Masonry Contractors",
-            "Electricians",
-            "Designers",
-            "Painting Contractors"
+            "Electricians"
         ]
     },
     {
@@ -486,7 +495,8 @@
             "Gutter Cleaners",
             "Painters",
             "Electricians",
-            "Plumbers"
+            "Plumbers",
+            "Handymen"
         ]
     },
     {
@@ -629,7 +639,8 @@
             "Show More"
         ],
         "workers": [
-            "Handymen"
+            "Handymen",
+            "Maids"
         ]
         
     },
@@ -682,7 +693,9 @@
             "Appliance Installers",
             "Electricians",
             "Flooring Installers",
-            "Interior Designers"
+            "Interior Designers",
+            "Window & Door Installers",
+            "Wall & Ceiling Installers"
         ]
     },
     {
@@ -756,6 +769,7 @@
             "Hot Tub & Spa Contractors",
             "Electricians",
             "HVAC Specialists",
+            "Sprinkler System Specialists"
         ]
     },
     {
@@ -776,7 +790,8 @@
             "Roofers",
             "Roofing Contractors",
             "Electrician",
-            "Roof Inspectors"
+            "Roof Inspectors",
+            "Window Installers"
         ]
     },
     {
@@ -801,10 +816,8 @@
             "Show More"
         ],
         "workers": [
-            "Sidingf Contractors",
-            "Siding Installers",
-            "Spray-on Siding Applicators",
-            "Designers"
+            "Siding Contractors",
+            "Siding Installers"
         ]
     },
     {
@@ -819,11 +832,9 @@
         "workers": [
             "Hot Tub, Sauna & Spa Contractors",
             "Swimming Pool Contractors",
-            "Swimming Pool Installers",
-            "Swimming Pool Specialists",
             "Plumbers",
             "Electricians",
-            "HVAC Specialists",
+            "HVAC Specialists"
         ]
     },
     {
@@ -869,7 +880,8 @@
             "Ceiling Fan Installers",
             "Paver",
             "Exterior Wall Installers",
-            "Painting Contractors"
+            "Painting Contractors",
+            "Cleaners & Maids"
         ]
     },
     {
@@ -916,8 +928,7 @@
             "Recovery Specialists",
             "Junk Removal Specialists",
             "Water Softening & Purification Specialists",
-            "Electricians",
-            "HVAC Specialists"
+            "Carpenters"
         ]
     }
 ]
