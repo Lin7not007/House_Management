@@ -32,14 +32,6 @@ def scraping(url):
             category_titles.pop()
         # Append the super-category and its titles to the data list
         data.append({super_category_title: category_titles})
-
-    '''
-    with open("categories.json", "w") as f:
-        # json.dump(data, f)
-        json.dump(data, f, indent=4)
-
-    return json.dump(data, f, indent=4)
-    '''
     
     return json.dumps(data, indent=4)
     
