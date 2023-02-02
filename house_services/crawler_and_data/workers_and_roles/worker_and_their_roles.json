@@ -1,0 +1,1104 @@
+{
+    "Appliance Installers": [
+        "Kitchen Remodeling & Design",
+        "Cabinets & Countertops",
+        "Appliances"
+    ],
+    "Appliance Repairers": [
+        "Fans",
+        "Energy Efficient Appliances"
+    ],
+    "Appraisers & Home Inspectors": [
+        "Appraisers & Home Inspectors"
+    ],
+    "Architects": [
+        "Additions",
+        "Basement Remodel",
+        "Outbuildings & Structures",
+        "Recovery Services - Disaster",
+        "Site Preparation",
+        "Architects",
+        "Concrete Foundation - Install",
+        "Concrete Foundation - Repair or Raise",
+        "Foundation Drainage - Install or Replace",
+        "Foundation or Basement - Waterproofing",
+        "Additions",
+        "Major Remodels & Renovations",
+        "New Home Construction",
+        "Outbuildings & Structures",
+        "Site Preparation"
+    ],
+    "Awnings & Patio Cover Installers": [
+        "Awnings & Patio Covers"
+    ],
+    "Boiler & Radiator Specialists": [
+        "Boilers & Radiators"
+    ],
+    "Boiler Installers": [
+        "Boilers & Radiators",
+        "Central Heating Systems",
+        "Electric Wall & Radiant Heat Systems",
+        "Fuel Delivery & Storage",
+        "Other HVAC Types"
+    ],
+    "Builders (New Home)": [
+        "Builders (New Home)"
+    ],
+    "Cable Installers": [
+        "Outlets, Panels, Switches & Wiring",
+        "Cables, Networks & Telephones",
+        "Electronics, Computers & Home Media Systems",
+        "Appliances",
+        "Fans",
+        "Generators",
+        "Heating & Thermostats",
+        "Home Security & Alarms",
+        "Lighting Design"
+    ],
+    "Carpenters": [
+        "Cabinets & Countertops",
+        "Finish Carpentry, Trim & Molding",
+        "Closets",
+        "Cabinets - Install",
+        "Custom Cabinets or Built-In Furniture",
+        "Countertops",
+        "Cabinets - Repair",
+        "Closet - Build",
+        "Carpentry",
+        "Painting & Texturing",
+        "Carpentry - Trim Work & Framing",
+        "Furniture"
+    ],
+    "Carpet & Draperies Cleaners": [
+        "Carpet & Draperies",
+        "Interior Home",
+        "Property Cleanup"
+    ],
+    "Carpet Installers": [
+        "Carpet"
+    ],
+    "Ceiling Fan Installers": [
+        "Ceilings - Fans"
+    ],
+    "Ceiling Installers": [
+        "Painting & Texturing",
+        "Ceilings"
+    ],
+    "Central Heating Specialists": [
+        "Boilers & Radiators",
+        "Central Heating Systems",
+        "Electric Wall & Radiant Heat Systems",
+        "Fuel Delivery & Storage",
+        "Other HVAC Types"
+    ],
+    "Chimney & Fireplace Cleaners": [
+        "Interior Home",
+        "Property Cleanup",
+        "Chimney & Fireplace - Clean"
+    ],
+    "Chimney or Fireplace Cleaners": [
+        "Chimney or Fireplace - Clean and Inspect"
+    ],
+    "Cleaners & Maids": [
+        "Cleaning"
+    ],
+    "Cleaning Service Providers": [
+        "Cleaning Services"
+    ],
+    "Concrete Contractors": [
+        "Driveways & Floors",
+        "Patios, Walks & Steps",
+        "Chimney, Fireplace, Stove & Barbecue",
+        "Foundations",
+        "Siding - Brick, Stone, or Stucco",
+        "Other Concrete Services",
+        "Walls",
+        "Concrete Foundation - Install",
+        "Concrete Foundation - Repair or Raise",
+        "Foundation Drainage - Install or Replace",
+        "Foundation or Basement - Waterproofing"
+    ],
+    "Construction Manager": [],
+    "Consultants & Move-Related Professionals": [
+        "Consultants & Move-Related Professionals"
+    ],
+    "Countertop Installers": [
+        "Countertops",
+        "Ceramic & Porcelain Tile - Install",
+        "Laminate Countertops - Install",
+        "Solid Surface (Corian, Concrete, etc.) - Install",
+        "Natural Stone Tile - Install",
+        "Tile, Stone, Grout - Clean"
+    ],
+    "Deck Builders": [
+        "Build a Deck or Porch",
+        "Clean & Seal a Deck or Porch",
+        "Build an Arbor, Pergola, or Trellis",
+        "Repair a Deck or Porch"
+    ],
+    "Deck Contractors": [
+        "Decks, Fences & Ramps"
+    ],
+    "Deck, Porch, Gazebo & Play Equipment Installers": [
+        "Decks, Porches, Gazebos & Play Equipment"
+    ],
+    "Designers": [
+        "Specialty - Disability, Chairlifts, Elevators",
+        "Swimming Pool - Remodel",
+        "Cabinets & Countertops",
+        "Decks, Fences & Ramps",
+        "Outbuildings, Sheds & Gazebos",
+        "Build a Deck or Porch",
+        "Build a Patio",
+        "Build an Arbor, Pergola, or Trellis",
+        "Build a Gazebo",
+        "Tile: Ceramic & Porcelain - Install",
+        "Tile: Natural Stone - Install",
+        "Pavers for Driveways & Floors - Install",
+        "Brick & Stone for Patios - Install",
+        "Tile, Stone, Grout - Clean",
+        "Pavers for Patios, Walks & Steps - Install",
+        "Tile: Ceramic & Porcelain - Repair",
+        "Tile: Natural Stone - Repair",
+        "Brick & Stone for Patios - Repair"
+    ],
+    "Disability Planners": [
+        "Consultant - Professional Home or Office Organizer",
+        "Designer - Bathroom",
+        "Disability Planner"
+    ],
+    "Door Installer": [],
+    "Door Installers": [
+        "Doors",
+        "Energy Efficient Windows & Doors",
+        "Energy Efficient Appliances",
+        "Energy Efficient Windows & Doors",
+        "Doors - Garage, Sliding, Glass, etc."
+    ],
+    "Draftsperson / CADD": [],
+    "Drain Clearing Workers": [
+        "Drain Clearing",
+        "Other Plumbing Related Jobs"
+    ],
+    "Drywall Contractors": [
+        "Additions",
+        "Outbuildings & Structures",
+        "Recovery Services - Disaster",
+        "Site Preparation",
+        "Walls & Ceilings",
+        "Drywall - Install",
+        "Drywall - Repair"
+    ],
+    "Duct Specialists": [
+        "Boilers & Radiators",
+        "Central Heating Systems",
+        "Electric Wall & Radiant Heat Systems",
+        "Ducts & Vents",
+        "Fuel Delivery & Storage",
+        "Other HVAC Types"
+    ],
+    "Ducts & Vents Cleaners": [
+        "Interior Home",
+        "Property Cleanup",
+        "Ducts & Vents - Clean"
+    ],
+    "Electric Wall & Radiant Heat Specialists": [
+        "Boilers & Radiators",
+        "Central Heating Systems",
+        "Electric Wall & Radiant Heat Systems",
+        "Fuel Delivery & Storage",
+        "Other HVAC Types"
+    ],
+    "Electrician": [
+        "Build a Deck or Porch",
+        "Build a Patio",
+        "Build an Arbor, Pergola, or Trellis",
+        "Build a Gazebo",
+        "Heating Cable for Roof - Install"
+    ],
+    "Electricians": [
+        "Additions",
+        "Bathroom Remodel",
+        "Kitchen Remodel",
+        "Garage Remodel",
+        "Outbuildings & Structures",
+        "Recovery Services - Disaster",
+        "Site Preparation",
+        "Central Air Conditioning - Install",
+        "Central Air Conditioning - Repair or Service",
+        "Fans",
+        "Swamp Cooler - Install or Replace",
+        "Window A/C Unit - Install",
+        "Outdoor Mist Cooling System - Install",
+        "Outdoor Mist Cooling System - Repair",
+        "Refrigeration System - Install or Replace",
+        "Swamp Cooler - Service or Repair",
+        "Bathroom Remodeling & Design",
+        "Electrical",
+        "Hot Tubs & Spas",
+        "Outlets, Panels, Switches & Wiring",
+        "Cables, Networks & Telephones",
+        "Electronics, Computers & Home Media Systems",
+        "Appliances",
+        "Fans",
+        "Generators",
+        "Heating & Thermostats",
+        "Home Security & Alarms",
+        "Lighting Design",
+        "Energy Efficient Home Heating",
+        "Home Insulation & Weatherstripping",
+        "Home Solar Energy",
+        "Energy Efficient Appliances",
+        "Geothermal Energy",
+        "Gate for Driveway or Security - Install or Replace",
+        "Home Solar Energy",
+        "Energy Efficient Appliances",
+        "Energy Efficient Home Heating",
+        "Home Energy Audit",
+        "Electrical",
+        "Boilers & Radiators",
+        "Central Heating Systems",
+        "Electric Wall & Radiant Heat Systems",
+        "Fans",
+        "Water Heaters",
+        "Ducts & Vents",
+        "Fuel Delivery & Storage",
+        "Thermostats & Accessories",
+        "Other HVAC Types",
+        "Additions",
+        "Major Remodels & Renovations",
+        "New Home Construction",
+        "Outbuildings & Structures",
+        "Site Preparation",
+        " Home Theater System or Media Center - Install",
+        "Home Automation - Install or Service",
+        "Home Theater Surround Sound System - Insall",
+        "Install, Repair or Conceal Home Theater Wiring",
+        "Antenna",
+        "Electronic Drape, Shade or Blind Opener - Install",
+        "Home Theater Accessory",
+        "Home Theater System or Media Center - Repair",
+        "Satellite Dish System",
+        "Universal Remote Control Consolidation & Programming",
+        "Satellite Dish - Repair",
+        "Energy Efficient Home Heating",
+        "Home Energy Audit",
+        "Kitchen Remodeling & Design",
+        "Electrical",
+        "Landscaping - Sprinkler Systems",
+        "Hot Tubs & Spas",
+        "Water Softening & Purification",
+        "Gazebos & Enclosures"
+    ],
+    "Energy Auditors": [
+        "Energy Efficient Home Heating",
+        "Home Insulation & Weatherstripping",
+        "Home Solar Energy",
+        "Home Energy Audit",
+        "Energy Efficient Appliances",
+        "Geothermal Energy",
+        "Home Solar Energy",
+        "Home Energy Audit"
+    ],
+    "Energy Efficient Home Heating Installers": [
+        "Energy Efficient Home Heating"
+    ],
+    "Energy Efficient Windows & Doors Installers": [
+        "Energy Efficient Windows & Doors"
+    ],
+    "Engineers": [
+        "Additions",
+        "Basement Remodel",
+        "Outbuildings & Structures",
+        "Recovery Services - Disaster",
+        "Site Preparation",
+        "Engineers",
+        "Concrete Foundation - Install",
+        "Concrete Foundation - Repair or Raise",
+        "Foundation Drainage - Install or Replace",
+        "Foundation or Basement - Waterproofing",
+        "Additions",
+        "Major Remodels & Renovations",
+        "New Home Construction",
+        "Outbuildings & Structures",
+        "Site Preparation"
+    ],
+    "Environmental Specialists": [
+        "Environmental (Asbestos, Lead, Mold, and Radon Gas)"
+    ],
+    "Exterior Wall Installers": [
+        "Painting & Texturing",
+        "Drywall & Insulation",
+        "Wallcoverings",
+        "Walls - Exterior",
+        "Walls - Interior"
+    ],
+    "Fan Installers": [
+        "Fans",
+        "Appliances",
+        "Fans",
+        "Fans",
+        "Other HVAC Types"
+    ],
+    "Fence Contractors": [
+        "Decks, Fences & Ramps",
+        "Wood Fence - Install",
+        "Vinyl or PVC Fence - Install",
+        "Chain Link Fence - Install",
+        "Wrought Iron Fence - Install",
+        "Aluminum or Steel Fence - Install",
+        "Aluminum or Steel Fence - Repair",
+        "Barbed Wire Fence - Install",
+        "Barbed Wire Fence - Repair",
+        "Chain Link Fence - Repair or Alter",
+        "Vinyl or PVC Fence - Repair",
+        "Wood Fence - Repair",
+        "Wrought Iron Fence - Repair or Weld",
+        "Decks, Porches, Gazebos & Play Equipment",
+        "Fences"
+    ],
+    "Feng Shui Specialists": [
+        "Designer - Kitchen",
+        "Designer - Building",
+        "Interior Decorator",
+        "Designer - Residential (Interior Space Planner)",
+        "Consultant - Professional Home or Office Organizer",
+        "Designer - Feng Shui"
+    ],
+    "Fireplace Installers": [
+        "Fireplaces, Inserts, Stoves, and Barbecues"
+    ],
+    "Fireplace Specialists": [
+        "Electric Wall & Radiant Heat Systems",
+        "Fireplaces, Inserts, Stoves & Barbecues",
+        "Other HVAC Types"
+    ],
+    "Floor Installers": [
+        "Brick & Stone",
+        "Hardwood",
+        "Laminate & Vinyl",
+        "Tile",
+        "Concrete"
+    ],
+    "Flooring Installers": [
+        "Kitchen Remodeling & Design",
+        "Flooring"
+    ],
+    "Fuel Delivery & Storage Specialists": [
+        "Boilers & Radiators",
+        "Central Heating Systems",
+        "Electric Wall & Radiant Heat Systems",
+        "Fuel Delivery & Storage",
+        "Other HVAC Types"
+    ],
+    "Garage Builders": [
+        "Garage - Build",
+        "Garage - Remodel"
+    ],
+    "Garage Door Installers": [
+        "Garage Door - Install or Replace",
+        "Garage Door Opener - Install",
+        "Garage Door - Repair",
+        "Garage Door Opener - Repair or Adjust"
+    ],
+    "Garage Organizers": [
+        "Garage Organizers - Install"
+    ],
+    "Gardener": [
+        "Landscaping - Design & Installation",
+        "Landscaping - Maintenance of Lawn & Trees",
+        "Tree & Shrub Service"
+    ],
+    "Gate Installers": [
+        "Gate for Driveway or Security - Install or Replace"
+    ],
+    "Gazebo Builders": [
+        "Build an Arbor, Pergola, or Trellis",
+        "Build a Gazebo",
+        "Repair a Gazebo"
+    ],
+    "General Appraisers": [
+        "Appraisal - Real Estate",
+        "Appraisal - General",
+        "Home Inspector"
+    ],
+    "General Contractors": [
+        "Additions",
+        "Basement Remodel",
+        "Outbuildings & Structures",
+        "Recovery Services - Disaster",
+        "Site Preparation",
+        "General Contractors",
+        "Framing",
+        "Outbuildings, Sheds & Gazebos",
+        "Stairs & Railings",
+        "Siding, Gutters & Exterior Trim",
+        "Additions",
+        "Major Remodels & Renovations",
+        "New Home Construction",
+        "Outbuildings & Structures",
+        "Site Preparation"
+    ],
+    "Generator Installers": [
+        "Outlets, Panels, Switches & Wiring",
+        "Cables, Networks & Telephones",
+        "Electronics, Computers & Home Media Systems",
+        "Appliances",
+        "Generators"
+    ],
+    "Geothermal Energy Contractors": [
+        "Energy Efficient Home Heating",
+        "Energy Efficient Appliances",
+        "Geothermal Energy",
+        "Energy Efficient Home Heating",
+        "Geothermal Energy"
+    ],
+    "Gutter Cleaners": [
+        "Gutters"
+    ],
+    "Gutter Installers": [
+        "Gutters"
+    ],
+    "Gutters & Downspouts Cleaners": [
+        "Winterize Roofing/Gutters",
+        "Winterize Lawn/Landscape",
+        "Gutters & Downspouts - Clean"
+    ],
+    "HVAC Specialists": [
+        "Bathroom Remodeling & Design",
+        "Hot Tubs & Spas",
+        "Energy Efficient Home Heating",
+        "Home Insulation & Weatherstripping",
+        "Home Solar Energy",
+        "Energy Efficient Appliances",
+        "Geothermal Energy",
+        "Home Solar Energy",
+        "Energy Efficient Home Heating",
+        "Home Energy Audit",
+        "Boilers & Radiators",
+        "Central Heating Systems",
+        "Electric Wall & Radiant Heat Systems",
+        "Ducts & Vents",
+        "Fuel Delivery & Storage",
+        "Thermostats & Accessories",
+        "Other HVAC Types",
+        "Additions",
+        "Major Remodels & Renovations",
+        "New Home Construction",
+        "Outbuildings & Structures",
+        "Site Preparation",
+        "Energy Efficient Home Heating",
+        "Home Energy Audit",
+        "Hot Tubs & Spas"
+    ],
+    "HVAC Technician": [],
+    "Handymen": [
+        "Garage Organizers - Install",
+        "Install Outdoor Play Equipment",
+        "Repair Outdoor Play Equipment",
+        "Handyman for Multiple Small Projects",
+        "Painting, Staining & Drywall",
+        "Other Handyman Services",
+        "Furniture Assembly",
+        "Packing & Unpacking Services",
+        "Box Recycling & Disposal",
+        "Yard & Garden Work",
+        "Toys & Games Assembly",
+        "Outdoor Equipment & Furniture Assembly"
+    ],
+    "Hardware, Locks & Screen Installers": [
+        "Hardware, Locks & Screens"
+    ],
+    "Heating & Air Conditioning Contractors": [
+        "Appliances",
+        "Heating & Thermostats"
+    ],
+    "Home Automation Specialists": [
+        " Home Theater System or Media Center - Install",
+        "Home Automation - Install or Service",
+        "Install, Repair or Conceal Home Theater Wiring",
+        "Universal Remote Control Consolidation & Programming"
+    ],
+    "Home Builders": [
+        "Additions",
+        "Major Remodels & Renovations",
+        "New Home Construction",
+        "Outbuildings & Structures",
+        "Site Preparation"
+    ],
+    "Home Energy Auditors": [
+        "Home Energy Audit"
+    ],
+    "Home Inspectors": [
+        "Additions",
+        "Additions",
+        "Major Remodels & Renovations",
+        "New Home Construction",
+        "Outbuildings & Structures",
+        "Site Preparation",
+        "Appraisal - Real Estate",
+        "Appraisal - General",
+        "Home Inspector"
+    ],
+    "Home Insulation & Weatherstripping Installers": [
+        "Home Insulation & Weatherstripping"
+    ],
+    "Home Security & Alarm Providers": [
+        "Home Security & Alarms"
+    ],
+    "Home Security Installers": [
+        "Home Security"
+    ],
+    "Home Security System Installers": [
+        "Electronics, Computers & Home Media Systems",
+        "Appliances",
+        "Home Security & Alarms"
+    ],
+    "Home Theater Installers": [
+        "Electronics, Computers & Home Media Systems",
+        "Appliances",
+        " Home Theater System or Media Center - Install",
+        "Home Theater Surround Sound System - Insall",
+        "Install, Repair or Conceal Home Theater Wiring",
+        "Home Theater System or Media Center - Repair"
+    ],
+    "Home Theater Planners": [
+        " Home Theater System or Media Center - Install",
+        "Home Theater Surround Sound System - Insall",
+        "Install, Repair or Conceal Home Theater Wiring",
+        "TV Wall Mount",
+        "Home Theater Accessory"
+    ],
+    "Hot Tub & Spa Contractors": [
+        "Hot Tubs & Spas",
+        "Hot Tubs & Spas"
+    ],
+    "Hot Tub, Sauna & Spa Contractors": [
+        "Gazebos & Enclosures",
+        "Hot Tubs & Spas",
+        "Saunas"
+    ],
+    "Insulation Contractors": [
+        "Batt, Rolled & Reflective Insulation",
+        "Blown-In Insulation",
+        "Soundproofing",
+        "Spray Foam Insulation",
+        "Energy Efficient Home Heating",
+        "Home Insulation & Weatherstripping",
+        "Energy Efficient Appliances",
+        "Geothermal Energy",
+        "Energy Efficient Windows & Doors",
+        "Home Insulation & Weatherstripping",
+        "Electric Wall & Radiant Heat Systems",
+        "Fuel Delivery & Storage",
+        "Insulation",
+        "Other HVAC Types"
+    ],
+    "Interior Designers": [
+        "Bathroom Remodel",
+        "Kitchen Remodel",
+        "Garage Remodel",
+        "Major Renovation - Multiple Rooms",
+        "Bathroom Remodeling & Design",
+        "Cabinets & Countertops",
+        "Closets",
+        "Cabinets - Install",
+        "Cabinets - Reface",
+        "Custom Cabinets or Built-In Furniture",
+        "Cabinets - Refinish",
+        "Countertops",
+        "Closet - Build",
+        "Closets or Rooms - Organize",
+        "Driveways & Floors",
+        "Patios, Walks & Steps",
+        "Chimney, Fireplace, Stove & Barbecue",
+        "Siding - Brick, Stone, or Stucco",
+        "Ceramic & Porcelain Tile - Install",
+        "Stone Slab (Granite, Quartz, etc.) - Install",
+        "Laminate Countertops - Install",
+        "Solid Surface (Corian, Concrete, etc.) - Install",
+        "Natural Stone Tile - Install",
+        "Designer - Kitchen",
+        "Interior Decorator",
+        "Designer - Residential (Interior Space Planner)",
+        "Consultant - Professional Home or Office Organizer",
+        "Designer - Bathroom",
+        "Designer - Interior Lighting Plan",
+        "Electronics, Computers & Home Media Systems",
+        "Lighting Design",
+        "Additions",
+        "Major Remodels & Renovations",
+        "New Home Construction",
+        "Outbuildings & Structures",
+        "Site Preparation",
+        "Kitchen Remodeling & Design",
+        "Cabinets & Countertops",
+        "Painting & Staining",
+        "Interior Painting or Staining",
+        "Special Finishes",
+        "Decorators & Designers"
+    ],
+    "Junk Removal Services": [
+        "Waste Material & Junk Removal"
+    ],
+    "Junk Removal Specialists": [
+        "Removal of Junk or Building Materials"
+    ],
+    "Kitchen Remodelers & Designers": [
+        "Kitchen Remodeling & Design",
+        "Cabinets & Countertops"
+    ],
+    "Land Surveyor": [],
+    "Landscape Designers": [
+        "Designer - Building",
+        "Designer - Landscape",
+        "Designer - Window Treatments"
+    ],
+    "Landscapers": [
+        "Additions",
+        "Outbuildings & Structures",
+        "Recovery Services - Disaster",
+        "Landscaping - Design & Installation"
+    ],
+    "Maids": [
+        "Maid Service",
+        "Carpet & Draperies",
+        "Windows",
+        "Exterior Home",
+        "Interior Home",
+        "Property Cleanup",
+        "Furniture Assembly",
+        "Packing & Unpacking Services",
+        "Lifting & Moving Heavy Items",
+        "Box Recycling & Disposal",
+        "Yard & Garden Work",
+        "Toys & Games Assembly"
+    ],
+    "Masonry Contractors": [
+        "Additions",
+        "Basement Remodel",
+        "Outbuildings & Structures",
+        "Recovery Services - Disaster",
+        "Site Preparation",
+        "Outbuildings, Sheds & Gazebos",
+        "Patios, Walks & Steps",
+        "Chimney, Fireplace, Stove & Barbecue",
+        "Foundations",
+        "Siding - Brick, Stone, or Stucco",
+        "Tile & Countertops",
+        "Other Concrete Services",
+        "Walls",
+        "Ceramic & Porcelain Tile - Install",
+        "Stone Slab (Granite, Quartz, etc.) - Install",
+        "Laminate Countertops - Install",
+        "Solid Surface (Corian, Concrete, etc.) - Install",
+        "Natural Stone Tile - Install",
+        "Tile, Stone, Grout - Clean",
+        "Ceramic & Porcelain Tile - Repair",
+        "Stone Slab (Granite, Quartz, etc.) - Repair",
+        "Laminate Countertops - Repair",
+        "Solid Surface (Corian, Concrete, etc.) - Repair",
+        "Natural Stone Tile - Repair",
+        "Brick & Stone",
+        "Concrete",
+        "Concrete Foundation - Install",
+        "Concrete Foundation - Repair or Raise",
+        "Foundation Drainage - Install or Replace",
+        "Foundation or Basement - Waterproofing",
+        "Landscaping - Design & Installation",
+        "Tile: Ceramic & Porcelain - Install",
+        "Tile: Natural Stone - Install",
+        "Pavers for Driveways & Floors - Install",
+        "Brick & Stone for Patios - Install",
+        "Tile, Stone, Grout - Clean",
+        "Pavers for Patios, Walks & Steps - Install",
+        "Tile: Ceramic & Porcelain - Repair",
+        "Tile: Natural Stone - Repair",
+        "Brick & Stone for Patios - Repair"
+    ],
+    "Metal Workers": [
+        "Metal Work, Blacksmiths and Signmakers"
+    ],
+    "Outdoor Mist Cooling System Technician": [],
+    "Outdoor Patio, Step & Walkway Installers": [
+        "Outdoor Patios, Steps & Walkways"
+    ],
+    "Outdoor Wall & Retaining Wall Installers": [
+        "Outdoor Walls & Retaining Walls"
+    ],
+    "Painter": [
+        "Exterior Painting or Staining",
+        "Interior Painting or Staining",
+        "Special Finishes",
+        "Paint Preparation",
+        "Paint Removal and Cleaning"
+    ],
+    "Painters": [
+        "Additions",
+        "Bathroom Remodel",
+        "Kitchen Remodel",
+        "Garage Remodel",
+        "Outbuildings & Structures",
+        "Recovery Services - Disaster",
+        "Bathroom Remodeling & Design",
+        "Painting & Staining",
+        "Walls & Ceilings",
+        "Doors",
+        "Closets",
+        "Painting, Staining & Drywall",
+        "Painting & Texturing"
+    ],
+    "Painting Contractors": [
+        "Additions",
+        "Major Renovation - Multiple Rooms",
+        "Outbuildings & Structures",
+        "Recovery Services - Disaster",
+        "Painting & Staining",
+        "Walls & Ceilings",
+        "Cabinets & Countertops",
+        "Doors",
+        "Outbuildings, Sheds & Gazebos",
+        "Cabinets - Install",
+        "Cabinets - Reface",
+        "Custom Cabinets or Built-In Furniture",
+        "Cabinets - Refinish",
+        "Waterproofing & Drywells",
+        "Stone Slab (Granite, Quartz, etc.) - Install",
+        "Solid Surface (Corian, Concrete, etc.) - Install",
+        "Natural Stone Tile - Install",
+        "Tile, Stone, Grout - Clean",
+        "Drywall - Repair",
+        "Soundproofing",
+        "Additions",
+        "Major Remodels & Renovations",
+        "New Home Construction",
+        "Outbuildings & Structures",
+        "Site Preparation",
+        "Painting & Staining",
+        "Painting & Staining",
+        "Exterior Painting or Staining",
+        "Interior Painting or Staining",
+        "Special Finishes",
+        "Paint Preparation",
+        "Paint Removal and Cleaning",
+        "Painting & Texturing",
+        "Ceilings"
+    ],
+    "Patio Builders": [
+        "Build a Patio",
+        "Build an Arbor, Pergola, or Trellis"
+    ],
+    "Paver": [
+        "Tile: Ceramic & Porcelain - Install",
+        "Tile: Natural Stone - Install",
+        "Pavers for Driveways & Floors - Install",
+        "Brick & Stone for Patios - Install",
+        "Tile, Stone, Grout - Clean",
+        "Pavers for Patios, Walks & Steps - Install",
+        "Tile: Ceramic & Porcelain - Repair",
+        "Tile: Natural Stone - Repair",
+        "Brick & Stone for Patios - Repair",
+        "Tile"
+    ],
+    "Pavers": [
+        "Bathroom Remodel",
+        "Kitchen Remodel",
+        "Garage Remodel",
+        "Major Renovation - Multiple Rooms",
+        "Bathroom Remodeling & Design",
+        "Tile",
+        "Decks, Fences & Ramps"
+    ],
+    "Permit Service": [],
+    "Pest Control Specialists": [
+        "Pest Control (Birds, Insects, Rodents, Termites)"
+    ],
+    "Plumber": [
+        "Plumbing",
+        "Build a Deck or Porch",
+        "Build a Patio",
+        "Build an Arbor, Pergola, or Trellis",
+        "Build a Gazebo"
+    ],
+    "Plumbers": [
+        "Additions",
+        "Bathroom Remodel",
+        "Kitchen Remodel",
+        "Garage Remodel",
+        "Outbuildings & Structures",
+        "Recovery Services - Disaster",
+        "Site Preparation",
+        "Swamp Cooler - Install or Replace",
+        "Outdoor Mist Cooling System - Install",
+        "Outdoor Mist Cooling System - Repair",
+        "Bathroom Remodeling & Design",
+        "Hot Tubs & Spas",
+        "Energy Efficient Home Heating",
+        "Home Solar Energy",
+        "Energy Efficient Appliances",
+        "Geothermal Energy",
+        "Home Solar Energy",
+        "Energy Efficient Appliances",
+        "Energy Efficient Home Heating",
+        "Plumbing & Sprinklers",
+        "Boilers & Radiators",
+        "Central Heating Systems",
+        "Electric Wall & Radiant Heat Systems",
+        "Water Heaters",
+        "Ducts & Vents",
+        "Fuel Delivery & Storage",
+        "Thermostats & Accessories",
+        "Other HVAC Types",
+        "Additions",
+        "Major Remodels & Renovations",
+        "New Home Construction",
+        "Outbuildings & Structures",
+        "Site Preparation",
+        "Energy Efficient Home Heating",
+        "Kitchen Remodeling & Design",
+        "Plumbing",
+        "Landscaping - Sprinkler Systems",
+        "Hot Tubs & Spas"
+    ],
+    "Plumbing Contractors": [
+        "Drain Clearing",
+        "Faucets, Fixtures & Pipes",
+        "Septic Systems, Sewers & Water Mains",
+        "Sprinkler Systems",
+        "Boilers & Radiators",
+        "Pumps",
+        "Other Plumbing Related Jobs"
+    ],
+    "Pool & Water Feature Installers": [],
+    "Post-Construction Cleaners": [
+        "Exterior Home",
+        "Property Cleanup",
+        "Post-Construction Cleanup"
+    ],
+    "Professional Movers": [
+        "Professional Moving Services"
+    ],
+    "Professional Organizers": [
+        "Designer - Residential (Interior Space Planner)",
+        "Consultant - Professional Home or Office Organizer",
+        "Designer - Interior Lighting Plan",
+        "Disability Planner"
+    ],
+    "Project Managers": [
+        "Concrete Foundation - Install",
+        "Concrete Foundation - Repair or Raise",
+        "Foundation Drainage - Install or Replace",
+        "Foundation or Basement - Waterproofing",
+        "Additions",
+        "Major Remodels & Renovations",
+        "New Home Construction",
+        "Outbuildings & Structures",
+        "Site Preparation"
+    ],
+    "Real Estate Appraisers": [
+        "Appraisal - Real Estate"
+    ],
+    "Recovery Specialists": [
+        "Recovery Services (Water, Fire, etc)"
+    ],
+    "Refrigeration Technician": [],
+    "Roof Inspectors": [
+        "Roofing - Repair",
+        "Inspection - Roofing",
+        "Sealant for Roof - Apply",
+        "Metal Roofing - Paint"
+    ],
+    "Roofers": [
+        "Roofing - Install or Replace",
+        "Roofing - Repair",
+        "Roofing & Gutters - Clean",
+        "Gutters",
+        "Heating Cable for Roof - Install",
+        "Sealant for Roof - Apply",
+        "Metal Roofing - Paint"
+    ],
+    "Roofing Contractors": [
+        "Waterproofing & Drywells",
+        "Roofing - Install or Replace",
+        "Sealant for Roof - Apply",
+        "Metal Roofing - Paint"
+    ],
+    "Roofing Inspectors": [
+        "Inspection - Roofing"
+    ],
+    "Satellite Dish Installers": [
+        " Home Theater System or Media Center - Install",
+        "Install, Repair or Conceal Home Theater Wiring",
+        "Antenna",
+        "Satellite Dish System",
+        "Satellite Dish - Install",
+        "Satellite Dish - Repair"
+    ],
+    "Septic System, Sewer & Water Main Specialists": [
+        "Faucets, Fixtures & Pipes",
+        "Septic Systems, Sewers & Water Mains",
+        "Sprinkler Systems",
+        "Boilers & Radiators",
+        "Hot Tubs & Spas",
+        "Pumps",
+        "Water Softening & Purification",
+        "Other Plumbing Related Jobs"
+    ],
+    "Siding Contractors": [
+        "Vinyl Siding - Install",
+        "Vinyl Siding - Repair",
+        "Wood or Fiber Cement - Install",
+        "Metal Siding - Install"
+    ],
+    "Siding Installers": [
+        "Vinyl Siding - Install",
+        "Vinyl Siding - Repair",
+        "Wood or Fiber Cement - Install",
+        "Metal Siding - Install",
+        "Traditional Stucco - Install",
+        "Asbestos Siding - Repair",
+        "Brick or Stone Siding - Install",
+        "Brick or Stone Siding - Repair",
+        "Exterior Trim - Install",
+        "Exterior Trim - Repair",
+        "Metal Siding - Repair",
+        "Spray-on Siding - Apply",
+        "Synthetic Stucco Siding - Install",
+        "Synthetic Stucco Siding - Repair",
+        "Traditional Stucco Siding - Repair",
+        "Wood or Fiber Cement - Repair"
+    ],
+    "Smart Home Planners": [
+        "Electronics, Computers & Home Media Systems",
+        "Appliances",
+        "Home Security & Alarms"
+    ],
+    "Snow Removers": [
+        "Winterize Roofing/Gutters",
+        "Winterize Lawn/Landscape",
+        "Gutters & Downspouts - Clean",
+        "Snow Removal"
+    ],
+    "Solar Energy Contractors": [
+        "Energy Efficient Home Heating",
+        "Home Solar Energy",
+        "Energy Efficient Appliances",
+        "Home Solar Energy"
+    ],
+    "Sports Surface Contractors": [
+        "Sports Surfaces (Tennis, Courts and Synthetic Grass)"
+    ],
+    "Sprinkler System Specialists": [
+        "Landscaping - Sprinkler Systems",
+        "Sprinkler Systems"
+    ],
+    "Storage Providers": [
+        "Storage"
+    ],
+    "Swamp Cooler Technician": [],
+    "Swimming Pool Contractors": [
+        "Swimming Pool - Remodel",
+        "Swimming Pool Decks & Patios",
+        "Swimming Pools"
+    ],
+    "Thermostat Contractors": [
+        "Boilers & Radiators",
+        "Central Heating Systems",
+        "Electric Wall & Radiant Heat Systems",
+        "Fuel Delivery & Storage",
+        "Thermostats & Accessories",
+        "Other HVAC Types"
+    ],
+    "Tile & Stone Contractors": [
+        "Tile: Ceramic & Porcelain - Install",
+        "Tile: Natural Stone - Install",
+        "Pavers for Driveways & Floors - Install",
+        "Brick & Stone for Patios - Install",
+        "Tile, Stone, Grout - Clean",
+        "Pavers for Patios, Walks & Steps - Install",
+        "Tile: Ceramic & Porcelain - Repair",
+        "Tile: Natural Stone - Repair",
+        "Brick & Stone for Patios - Repair"
+    ],
+    "Tile Contractors": [
+        "Tile",
+        "Brick & Stone",
+        "Hardwood",
+        "Laminate & Vinyl",
+        "Tile"
+    ],
+    "Tile Installers": [
+        "Solid Surface (Corian, Concrete, etc.) - Install",
+        "Natural Stone Tile - Install",
+        "Kitchen Remodeling & Design",
+        "Tile"
+    ],
+    "Universal Remote Control Consolidation & Programming Specialists": [
+        "Home Automation - Install or Service"
+    ],
+    "Wall & Ceiling Installers": [
+        "Walls & Ceilings"
+    ],
+    "Wallpaper Installers": [
+        "Interior Painting or Staining",
+        "Special Finishes",
+        "Wallpapering"
+    ],
+    "Waste Material & Junk Removal Specialists": [
+        "Exterior Home",
+        "Property Cleanup",
+        "Waste Material & Junk Removal"
+    ],
+    "Waste Material & Junk Removers": [
+        "Waste Material & Junk Removal"
+    ],
+    "Water Heater Specialists": [
+        "Boilers & Radiators",
+        "Central Heating Systems",
+        "Electric Wall & Radiant Heat Systems",
+        "Water Heaters",
+        "Fuel Delivery & Storage",
+        "Other HVAC Types",
+        "Water Heaters"
+    ],
+    "Water Softening & Purification Specialists": [
+        "Water Softening & Purification"
+    ],
+    "Waterproofing Specialists": [
+        "Inspection - Waterproofing"
+    ],
+    "Window & Door Installers": [
+        "Windows & Doors"
+    ],
+    "Window A/C Technician": [],
+    "Window Cleaners": [
+        "Windows - Cleaning",
+        "Windows - Treatments",
+        "Glass & Mirrors"
+    ],
+    "Window Installers": [
+        "Energy Efficient Home Heating",
+        "Energy Efficient Windows & Doors",
+        "Energy Efficient Appliances",
+        "Energy Efficient Windows & Doors",
+        "Home/Roof Skylights",
+        "Skylights",
+        "Windows - Installation & Repair",
+        "Glass & Mirrors"
+    ],
+    "Window Protection & Tinting Installers": [
+        "Windows - Treatments",
+        "Glass & Mirrors",
+        "Windows - Protection & Tinting"
+    ],
+    "Windows & Doors Installers": [],
+    "Windows Cleaners": [
+        "Windows",
+        "Exterior Home",
+        "Interior Home",
+        "Property Cleanup"
+    ],
+    "Wiring, Cabling, and Telephone Providers": [
+        "Wiring, Cabling, and Telephones"
+    ]
+}

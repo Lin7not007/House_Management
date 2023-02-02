@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-# The function to scrape the data from HomeAdvisor Categories page
+# The function scrapes the data from HomeAdvisor Categories page
 def scraping(url):
 
     if url is None:
